@@ -1,0 +1,7 @@
+{
+  "name": "cartaoDigital",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
